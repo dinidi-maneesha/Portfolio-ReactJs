@@ -6,8 +6,10 @@
   align-items: center;
 
   h2 {
-    font-size: 1rem;
+    font-size: 1.5rem;
     text-align: center;
+    margin-bottom: 2em;
+    color: rgb(8, 49, 99);
     @include media(">=phone", "<lgphone") {
       font-size: 14px;
     }

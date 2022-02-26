@@ -17,7 +17,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "Dinidi Maneesha",
+  name: "Dinidi Maneesha —",
   headerTagline: [
     //Line 1 For Header
     "UI UX designing",
