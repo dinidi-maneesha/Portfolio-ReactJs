@@ -168,7 +168,7 @@ export default {
 
   promotionHeading: "Heading",
   promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "Anypne who wants to know about me can find out about me from the information I mentioned above. If you would like to join me and work with me, here are some ways in wich you can contact me. I am  a very efficient collaborator and able to  learn anything very quickly. I hope you can get some insight in to my performance by looking at the above projects. My goal is to do exactly what you want according your needs and tasts. ",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
