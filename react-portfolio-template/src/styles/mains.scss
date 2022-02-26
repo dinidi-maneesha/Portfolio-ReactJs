@@ -29,6 +29,7 @@ body {
   width: 100vw;
   height: auto;
   overflow: hidden;
+  background-image:url("https://images.unsplash.com/photo-1511184150666-9bb7d41a88f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80") ;
 }
 
 .container {
@@ -43,7 +44,7 @@ body {
 .primary-btn {
   margin: 10px;
   padding: 10px;
-  background-color: black;
+  background-color: rgb(4, 4, 99);
   color: white;
   border: 0px;
   transition: all 0.2s ease-in-out;

@@ -17,83 +17,85 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: " Dinidi Maneesha —",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "UI UX designing",
     //Line 2 For Header
-    "products, brands,",
+    "Art Work",
     //Line 3 For Header
-    "and experience",
+    "and programming",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    " To be more creative and efficient and creating more successful creations by learning more through experince.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "dinidimaneesha@gmail.com",
 
   // End Header Details -----------------------
 
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "Project 1. Payroll System", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "My first project was a Payroll System using Python. Here I have created a system for calculating the salaries of the employees of an organization.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://cdn.dribbble.com/users/402092/screenshots/3401994/shot.png?compress=1&resize=800x600&vertical=top",
+      //Project URL - Add Your Project Url Here
+      url: "https://dribbble.com/DINIDI_MANEESHA-12",
+    },
+    {
+      title: "Project 2. Art Works", //Project Title - Add Your Project Title Here
+      para:
+        "I create the most the creative logos, banners, posters, etc. for defferent companies. ", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://i.pinimg.com/564x/1f/3b/40/1f3b40705aa126717c903521e6e71b15.jpg",
+      //Project URL - Add Your Project Url Here
+      url: "https://dribbble.com/DINIDI_MANEESHA-12",
+    },
+    {
+      title: "Project 3.Mobile App", //Project Title - Add Your Project Title Here
+      para:
+        "I also created mobile app to sell the beauty product using react native.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://i.pinimg.com/564x/a5/7e/39/a57e395b463d09c50dcb8922d04b1966.jpg",
+      //Project URL - Add Your Project Url Here
+      url: "https://dribbble.com/DINIDI_MANEESHA-12",
+    },
+    {
+      title: "Project 4.Student Management system",
+       //Project Title - Add Your Project Title Here
+      para:
+        "Creating a system using Java language to collect information of children in a educational institution .", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://cdn.dribbble.com/users/827126/screenshots/6538983/zoeyshen-3_4x.png?compress=1&resize=1200x900&vertical=top", 
+
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "Project 5.Design Website Frontend", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Design a web site to a Restaurant (Frontend).", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://cdn.dribbble.com/users/3791009/screenshots/14028872/media/97d1aaded3c803d38847b6445caf1207.png",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "Project 6.UI Designing", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        " I was designing a UI for beauty product app to be more acttractive and tailored to users needs.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "Project Four", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "Project Five", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "Project Six", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.pinimg.com/564x/cd/82/02/cd82024c1355b6f0b5a513e25a3b0806.jpg",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
@@ -113,13 +115,13 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "I am Dinidi maneesha. I'm 24 years old. I am student of Sri jayawardenapura University. I am still a third year undergraduate student and studying Horons Bsc ICT degree. But I have lot of working experience inindustry. Also I have follow the DTEC course at Esoft metro campus.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "I love to learn from experience and try to lear through self study.so far, the father has successfully completed several projects and has received good responses. I have goo knowledge of working with computer languages like python,Java,C#. I prefer to design UI, UX.",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-  aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+  "Currently I am working as a ICT teacher at private institution. Also I also do graphic design for various companys. i have completed six months of training at People's bank and gained a lot of experience through it. So I think anyone can work with me very easily.",
+
+  aboutImage: "https://media-exp1.licdn.com/dms/image/C4D03AQFgQtaWBuW1Ow/profile-displayphoto-shrink_800_800/0/1625518781303?e=1651104000&v=beta&t=eqnmOISbt7d11OYJdQGsoTv0y72Q4guFd_EpH61l9GI",
 
   //   End About Section ---------------------
 
@@ -131,32 +133,32 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "I'm happy to say that I have a good knowledge of HTML. I have completed several projects using HTML and I am still studying both front-end and back-end. ",
     },
     {
       img: cssIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "I also have athorough Knowladge of CSS and I have used CSS to complete projects like mobile application, Web application very creatively.",
     },
     {
       img: jsIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "I have done several projects using JavaScript so far and I will continue to study this script languageto gain a better understanding of it.",
     },
     {
       img: reactIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "I studied native to create mobile app and I have created several mobile app using this so far. I now have extensive knowledge of react usage.",
     },
     {
       img: designIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
+        "I have learned a lot about photoshop and illustrator. I design banner, poster, cutout, leaflet and maintain a fiver account."
+      },
     {
       img: codeIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "I have learned about languages like python, Java ,C# and I do the coding using this languages.",
     },
   ],
 
@@ -166,7 +168,7 @@ export default {
 
   promotionHeading: "Heading",
   promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "Anypne who wants to know about me can find out about me from the information I mentioned above. If you would like to join me and work with me, here are some ways in wich you can contact me. I am  a very efficient collaborator and able to  learn anything very quickly. I hope you can get some insight in to my performance by looking at the above projects. My goal is to do exactly what you want according your needs and tasts. ",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
@@ -174,14 +176,14 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
+    { img: githubIcon, url: "https://github.com/dnidimaneesha" },
     {
       img: codepenIcon,
-      url: "https://www.codepen.com/",
+      url: "https://www.facebook.com/dinidi.maneesha.9",
     },
     {
       img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
+      url: "https://dribbble.com/DINIDI_MANEESHA-12",
     },
     {
       img: instagramIcon,
