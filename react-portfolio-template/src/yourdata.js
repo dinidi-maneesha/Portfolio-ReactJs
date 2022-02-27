@@ -77,7 +77,7 @@ export default {
         "https://cdn.dribbble.com/users/827126/screenshots/6538983/zoeyshen-3_4x.png?compress=1&resize=1200x900&vertical=top", 
 
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://dribbble.com/DINIDI_MANEESHA-12",
     },
     {
       title: "Project 5.Design Website Frontend", //Project Title - Add Your Project Title Here
@@ -87,7 +87,7 @@ export default {
       imageSrc:
         "https://cdn.dribbble.com/users/3791009/screenshots/14028872/media/97d1aaded3c803d38847b6445caf1207.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://dribbble.com/DINIDI_MANEESHA-12",
     },
     {
       title: "Project 6.UI Designing", //Project Title - Add Your Project Title Here
@@ -97,7 +97,7 @@ export default {
       imageSrc:
         "https://i.pinimg.com/564x/cd/82/02/cd82024c1355b6f0b5a513e25a3b0806.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://dribbble.com/DINIDI_MANEESHA-12",
     },
 
     /*
