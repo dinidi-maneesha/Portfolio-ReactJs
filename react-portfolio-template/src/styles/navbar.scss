@@ -9,25 +9,36 @@
   }
   .links-wrapper {
     button {
-      text-decoration: none;
-      padding: 10px;
-      font-family: "Open Sans";
-      opacity: 0.6;
-      transition: all 0.2s ease-in-out;
-      font-size: 14px;
-      background-color: transparent;
-      outline: none;
-      border: 0px;
-      cursor: pointer;
-      color:rgb(3, 12, 49);
-      font-weight:bold;
-      &:hover {
-        opacity: 1;
-        
-      }
-    }
-    .active {
-      color: black;
-    }
+      flex: 1;
+      text-align: right;
+   }
+   
+   button{
+       list-style: none;
+       display: inline-block;
+       padding: 8px 12px;
+       position:relative; 
+     border-color: rgb(86, 137, 231);
+   }
+   
+   button{
+       color: rgb(7, 6, 6);
+       font-weight: bold;
+       text-decoration: none;
+       font-size: 13px;
+   }
+   button::after{
+       content: '';
+       width: 0% ;
+       transition: 0.5s;
+       height: 3px;
+       background: rgb(103, 27, 190);
+       display: block;
+       margin: auto;
+          
+   }
+   button:hover::after{
+       width: 100%
+   }
   }
 }
