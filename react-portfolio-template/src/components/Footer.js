@@ -11,6 +11,15 @@ const Footer = () => {
             <h1>Contact</h1>
             <h2>{data.contactSubHeading}</h2>
           </Fade>
+          <h3>Address:</h3>
+          <p>dinidi Maneesha,<br></br>
+          Wimasima, <br></br>
+             Waliwa,<br></br>
+             Morawaka </p>
+             <h3>Contact Number:</h3>
+             <p>0763911405 / 0714534950</p>
+             <h3>Email Address:</h3>
+
           <a className="email-link" href={`mailto:${data.contactEmail}`}>
             {data.contactEmail}
           </a>
@@ -28,7 +37,7 @@ const Footer = () => {
           </div>
           <span>
             Made With <icon>❤</icon> by{" "}
-            <a href="https://www.linkedin.com/in/dinidi-maneesha-a626a1216/">Dinidi Maneesha</a>
+            <a href="www.linkedin.com/in/dinidi-maneesha-890953233">Dinidi Maneesha</a>
           </span>
         </div>
       </div>

@@ -45,7 +45,7 @@ export default {
       imageSrc:
         "https://media-exp1.licdn.com/dms/image/C4E22AQGOyEv10SzMLg/feedshare-shrink_2048_1536/0/1646649154130?e=1649289600&v=beta&t=AiWoswNPedjlSUexEcKua-3dnzUIHa4t7B2JC-NkJ90",
       //Project URL - Add Your Project Url Here
-      url: "https://dribbble.com/DINIDI_MANEESHA-12",
+      url: "https://drive.google.com/file/d/1lY5-dpEhDgiMHxSJrkn6zj9LIlCoXbaR/view?usp=sharing",
     },
     {
       title: "Project 2. Art Works", //Project Title - Add Your Project Title Here
@@ -87,7 +87,7 @@ export default {
       imageSrc:
         "https://media-exp1.licdn.com/dms/image/C4E22AQEcOUy7KToznQ/feedshare-shrink_800/0/1646641213577?e=1649289600&v=beta&t=ADlgecifNLB82xLgRUedo6Q37c4CGAhDqWAGAwEgH1w",
       //Project URL - Add Your Project Url Here
-      url: "https://dribbble.com/DINIDI_MANEESHA-12",
+      url: "https://github.com/dnidimaneesha/Html-web-frontend.git",
     },
     {
       title: "Project 6.UI Designing", //Project Title - Add Your Project Title Here
@@ -166,9 +166,22 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Heading",
+  promotionHeading: "Education",
+  promotionHeading2:"Telijjawila Central College",
   promotionPara:
-    "Anypne who wants to know about me can find out about me from the information I mentioned above. If you would like to join me and work with me, here are some ways in wich you can contact me. I am  a very efficient collaborator and able to  learn anything very quickly. I hope you can get some insight in to my performance by looking at the above projects. My goal is to do exactly what you want according your needs and tasts. ",
+    " From grade 6 to Advanced level ",
+  promotionHeading3:
+  "University of Sri Jayawardanapura",
+  promotionPara2:
+    "Bachelors of Science (Honours) in Computer Science",  
+    promotionHeading4:
+    "ESOFT Metro Campus",
+    promotionPara3:
+      "ICT Deploma (Dtec) and English Deploma",
+      promotionHeading5:
+      "Other Knowledge",
+      promotionPara4:
+        "Video editing(Adobe Premiere Pro), Audio Editing(Audacity), photo edit(Photoshop and lightroom)",  
   // End Promotion Section -----------------
 
   //   Contact Section --------------
@@ -183,7 +196,7 @@ export default {
     },
     {
       img: dribbbleIcon,
-      url: "https://dribbble.com/DINIDI_MANEESHA-12",
+      url: "",
     },
     {
       img: instagramIcon,
