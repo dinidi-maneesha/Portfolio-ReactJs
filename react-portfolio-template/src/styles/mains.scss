@@ -42,15 +42,22 @@ body {
 }
 
 .primary-btn {
-  margin: 10px;
-  padding: 10px;
-  background-color: rgb(4, 4, 99);
-  color: white;
-  border: 0px;
-  transition: all 0.2s ease-in-out;
-  text-decoration: none;
-  cursor: pointer;
+  display: inline-block;
+    text-decoration:none;
+    color: rgb(2, 2, 2);
+    border: 1px solid rgb(179, 184, 245);
+    padding: 12px 30px;
+    font-size: 20px;
+    background:rgb(179, 184, 245);
+    position: relative;
+    cursor: pointer;
+    margin-top: 1em;
   &:hover {
     transform: scale(1.1);
+    border:1px solid #0d045f;
+    background: #0d045f;
+    color: #fff;
+    transition: 1s;
+    font-style: normal;
   }
 }

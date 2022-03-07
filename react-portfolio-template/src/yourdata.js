@@ -43,7 +43,7 @@ export default {
         "My first project was a Payroll System using Python. Here I have created a system for calculating the salaries of the employees of an organization.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://cdn.dribbble.com/users/402092/screenshots/3401994/shot.png?compress=1&resize=800x600&vertical=top",
+        "https://media-exp1.licdn.com/dms/image/C4E22AQGOyEv10SzMLg/feedshare-shrink_2048_1536/0/1646649154130?e=1649289600&v=beta&t=AiWoswNPedjlSUexEcKua-3dnzUIHa4t7B2JC-NkJ90",
       //Project URL - Add Your Project Url Here
       url: "https://dribbble.com/DINIDI_MANEESHA-12",
     },
@@ -53,9 +53,9 @@ export default {
         "I create the most the creative logos, banners, posters, etc. for defferent companies. ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.pinimg.com/564x/1f/3b/40/1f3b40705aa126717c903521e6e71b15.jpg",
+        "https://media-exp1.licdn.com/dms/image/C4E22AQHuR2mFYkY5Wg/feedshare-shrink_2048_1536/0/1646635593566?e=1649289600&v=beta&t=tEUE-Eat2LxCucpY9RYwjJga7sW5Y2C06uGEdGP2Ln0",
       //Project URL - Add Your Project Url Here
-      url: "https://dribbble.com/DINIDI_MANEESHA-12",
+      url: "https://drive.google.com/file/d/19ivIdb7vQzxxbLGDjPfZ-RfsCJe5K29Z/view?usp=sharing",
     },
     {
       title: "Project 3.Mobile App", //Project Title - Add Your Project Title Here
@@ -63,9 +63,9 @@ export default {
         "I also created mobile app to sell the beauty product using react native.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.pinimg.com/564x/a5/7e/39/a57e395b463d09c50dcb8922d04b1966.jpg",
+        "https://media-exp1.licdn.com/dms/image/C4E22AQEa5HmVbKLsyA/feedshare-shrink_800/0/1646639858304?e=1649289600&v=beta&t=D6ILP6PnboqOrES78zrSDsl8MhdkP1pub3VYFFLuui8",
       //Project URL - Add Your Project Url Here
-      url: "https://dribbble.com/DINIDI_MANEESHA-12",
+      url: "https://github.com/FHSS-USJ/final-project-dnidimaneesha-1.git",
     },
     {
       title: "Project 4.Student Management system",
@@ -74,10 +74,10 @@ export default {
         "Creating a system using Java language to collect information of children in a educational institution .", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://cdn.dribbble.com/users/827126/screenshots/6538983/zoeyshen-3_4x.png?compress=1&resize=1200x900&vertical=top", 
+        "https://media-exp1.licdn.com/dms/image/C4E22AQFy0ghkYaWQ9w/feedshare-shrink_2048_1536/0/1646649305462?e=1649289600&v=beta&t=k_ROSS3HXfDbDsyISaBykDIOPrARvT46ZtUENxhkPFI", 
 
       //Project URL - Add Your Project Url Here
-      url: "https://dribbble.com/DINIDI_MANEESHA-12",
+      url: "https://github.com/FHSS-USJ/final-project-dnidimaneesha.git",
     },
     {
       title: "Project 5.Design Website Frontend", //Project Title - Add Your Project Title Here
@@ -85,7 +85,7 @@ export default {
         "Design a web site to a Restaurant (Frontend).", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://cdn.dribbble.com/users/3791009/screenshots/14028872/media/97d1aaded3c803d38847b6445caf1207.png",
+        "https://media-exp1.licdn.com/dms/image/C4E22AQEcOUy7KToznQ/feedshare-shrink_800/0/1646641213577?e=1649289600&v=beta&t=ADlgecifNLB82xLgRUedo6Q37c4CGAhDqWAGAwEgH1w",
       //Project URL - Add Your Project Url Here
       url: "https://dribbble.com/DINIDI_MANEESHA-12",
     },
@@ -95,9 +95,9 @@ export default {
         " I was designing a UI for beauty product app to be more acttractive and tailored to users needs.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.pinimg.com/564x/cd/82/02/cd82024c1355b6f0b5a513e25a3b0806.jpg",
+        "https://media-exp1.licdn.com/dms/image/C4E22AQEAHk8rogE1-A/feedshare-shrink_800/0/1646640471216?e=1649289600&v=beta&t=XNvJ9cj_7u4_tHJGg2SJY0I1DFmOfr2ZMLCWPLw6TLc",
       //Project URL - Add Your Project Url Here
-      url: "https://dribbble.com/DINIDI_MANEESHA-12",
+      url: "https://drive.google.com/drive/folders/166UVdYy4gOlRFKAmNQIKO6lnD3xrCcq6?usp=sharing",
     },
 
     /*
