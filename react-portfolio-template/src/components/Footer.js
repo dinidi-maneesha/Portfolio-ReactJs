@@ -13,7 +13,7 @@ const Footer = () => {
           </Fade>
           <h3>Address:</h3>
           <p>dinidi Maneesha,<br></br>
-          Wimasima, <br></br>
+          Wimasuma, <br></br>
              Waliwa,<br></br>
              Morawaka </p>
              <h3>Contact Number:</h3>
