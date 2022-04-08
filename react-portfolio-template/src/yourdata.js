@@ -63,7 +63,7 @@ export default {
         "I also created mobile app to sell the beauty product using react native.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://media-exp1.licdn.com/dms/image/C4E22AQEa5HmVbKLsyA/feedshare-shrink_800/0/1646639858304?e=1649289600&v=beta&t=D6ILP6PnboqOrES78zrSDsl8MhdkP1pub3VYFFLuui8",
+        "https://media-exp1.licdn.com/dms/image/C4E22AQEa5HmVbKLsyA/feedshare-shrink_2048_1536/0/1646639858314?e=2147483647&v=beta&t=qmeDclqs15hxXOvZwsouL9oLSawBMrRxSy6mu4M1x38",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/FHSS-USJ/final-project-dnidimaneesha-1.git",
     },
@@ -74,8 +74,7 @@ export default {
         "Creating a system using Java language to collect information of children in a educational institution .", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://media-exp1.licdn.com/dms/image/C4E22AQFy0ghkYaWQ9w/feedshare-shrink_2048_1536/0/1646649305462?e=1649289600&v=beta&t=k_ROSS3HXfDbDsyISaBykDIOPrARvT46ZtUENxhkPFI", 
-
+        "https://media-exp1.licdn.com/dms/image/C4E22AQFy0ghkYaWQ9w/feedshare-shrink_2048_1536/0/1646649305462?e=2147483647&v=beta&t=t6u7j-1t79VhSP0_6fKfmuo7bTcYXjfltpbLe0jMhjs",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/FHSS-USJ/final-project-dnidimaneesha.git",
     },
@@ -85,7 +84,7 @@ export default {
         "Design a web site to a Restaurant (Frontend).", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://media-exp1.licdn.com/dms/image/C4E22AQEcOUy7KToznQ/feedshare-shrink_800/0/1646641213577?e=1649289600&v=beta&t=ADlgecifNLB82xLgRUedo6Q37c4CGAhDqWAGAwEgH1w",
+        "https://media-exp1.licdn.com/dms/image/C4E22AQEcOUy7KToznQ/feedshare-shrink_1280/0/1646641213577?e=2147483647&v=beta&t=YC-xCXkanJSKG9GQRvxvyDvBA1ZmIIjjwAunZV5ZJE8",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/dnidimaneesha/Html-web-frontend.git",
     },
@@ -95,7 +94,7 @@ export default {
         " I was designing a UI for beauty product app to be more acttractive and tailored to users needs.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://media-exp1.licdn.com/dms/image/C4E22AQEAHk8rogE1-A/feedshare-shrink_800/0/1646640471216?e=1649289600&v=beta&t=XNvJ9cj_7u4_tHJGg2SJY0I1DFmOfr2ZMLCWPLw6TLc",
+        "https://media-exp1.licdn.com/dms/image/C4E22AQEa5HmVbKLsyA/feedshare-shrink_2048_1536/0/1646639858314?e=2147483647&v=beta&t=qmeDclqs15hxXOvZwsouL9oLSawBMrRxSy6mu4M1x38",
       //Project URL - Add Your Project Url Here
       url: "https://drive.google.com/drive/folders/166UVdYy4gOlRFKAmNQIKO6lnD3xrCcq6?usp=sharing",
     },
