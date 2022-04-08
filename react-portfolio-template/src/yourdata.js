@@ -43,7 +43,7 @@ export default {
         "My first project was a Payroll System using Python. Here I have created a system for calculating the salaries of the employees of an organization.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://media-exp1.licdn.com/dms/image/C4E22AQGOyEv10SzMLg/feedshare-shrink_2048_1536/0/1646649154130?e=1649289600&v=beta&t=AiWoswNPedjlSUexEcKua-3dnzUIHa4t7B2JC-NkJ90",
+        "https://media-exp1.licdn.com/dms/image/C4E22AQGOyEv10SzMLg/feedshare-shrink_2048_1536/0/1646649154130?e=2147483647&v=beta&t=XTdXkVtFkgN00hmGzeoRv94H0tSYDfiA0lIQwbhaX0M",
       //Project URL - Add Your Project Url Here
       url: "https://drive.google.com/file/d/1lY5-dpEhDgiMHxSJrkn6zj9LIlCoXbaR/view?usp=sharing",
     },
@@ -53,7 +53,7 @@ export default {
         "I create the most the creative logos, banners, posters, etc. for defferent companies. ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://media-exp1.licdn.com/dms/image/C4E22AQHuR2mFYkY5Wg/feedshare-shrink_2048_1536/0/1646635593566?e=1649289600&v=beta&t=tEUE-Eat2LxCucpY9RYwjJga7sW5Y2C06uGEdGP2Ln0",
+        "https://media-exp1.licdn.com/dms/image/C4E22AQHuR2mFYkY5Wg/feedshare-shrink_2048_1536/0/1646635593566?e=2147483647&v=beta&t=rgRycSweCFMoC1Y-vyTwUndUN9405qXyoOUGzDHSbHA",
       //Project URL - Add Your Project Url Here
       url: "https://drive.google.com/file/d/19ivIdb7vQzxxbLGDjPfZ-RfsCJe5K29Z/view?usp=sharing",
     },
@@ -94,7 +94,7 @@ export default {
         " I was designing a UI for beauty product app to be more acttractive and tailored to users needs.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://media-exp1.licdn.com/dms/image/C4E22AQEa5HmVbKLsyA/feedshare-shrink_2048_1536/0/1646639858314?e=2147483647&v=beta&t=qmeDclqs15hxXOvZwsouL9oLSawBMrRxSy6mu4M1x38",
+        "https://media-exp1.licdn.com/dms/image/C4E22AQEAHk8rogE1-A/feedshare-shrink_1280/0/1646640471216?e=2147483647&v=beta&t=zdJ_O9BPEzJJPIi8YpcSpU1hSdgDWrAOWoUyf0ioYIk",
       //Project URL - Add Your Project Url Here
       url: "https://drive.google.com/drive/folders/166UVdYy4gOlRFKAmNQIKO6lnD3xrCcq6?usp=sharing",
     },
